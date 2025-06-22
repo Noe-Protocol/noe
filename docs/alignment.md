@@ -43,15 +43,14 @@ This structure makes Noe:
 
 Alignment isn’t just a goal. It’s an architecture.
 
-Noe encodes thought in ways that can be shared, verified, and reasoned about. It provides the semantic scaffolding that language models and agents can use to trace intention, validate constraints, and act coherently within shared context.
+Noe encodes thought in a way that can be shared, verified, and reasoned about. Its symbolic scaffolding allows language models and agents to trace intention, validate constraints, and act coherently within shared context.
 
 This enables:
-
-* Transparent reasoning for LLMs and agents
-* Shared understanding across multi-agent systems
-* Reduced risk of instruction drift in critical environments
-* Emotional and ethical encoding for aligned behavior
-* Keeps humans in the loop through symbolic clarity
+- Transparent reasoning for LLMs and agents
+- Shared understanding across multi-agent systems
+- Reduced instruction drift in critical environments
+- Emotional and ethical encoding for aligned behavior
+- Human-in-the-loop clarity through symbolic structure
 
 ## Compression Is Safety
 
@@ -70,10 +69,18 @@ This matters for:
 
 We are outpacing our language. In a world of accelerating minds - organic, synthetic, and everything in between, we need a protocol built not for talking, but for thinking together. Noe is that protocol. Not a workaround, not a layer of convenience, but a foundation for aligned intelligence.
 
-This is not just about better communication. It’s about preserving coherence as intelligence fragments and scales.
-It’s about building the substrate before the systems outrun our intent.
+It is modality-agnostic.
+It transmits in symbol, sound, light, and pulse.
+It functions across voice, vision, haptics, and BCI.
+
+Noe functions as a neural lingua franca across BCI, robotics, visual agents, and sensory-augmented humans.
+It is designed to persist and scale, from human cognition to machine reasoning to hybrid systems of collective thought.
+
+This is not just about better communication.
+It’s about preserving coherence as intelligence fragments and scales.
+It’s about building the substrate before systems outrun our intent.
 
 We don’t align by guessing better.
 We align by structuring meaning.
 
-Noe is the structure that makes alignment possible before it’s too late.
+Noe is not how we speak - it’s how intelligence stays intelligible.
