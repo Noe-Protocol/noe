@@ -17,7 +17,7 @@ Code is brittle, rigid, and built for machines, not shared understanding.
 
 Neither is built for what’s coming.
 
-We are entering an era of agents, neural interfaces, and machine cognition.  
+We are entering an era of agents, robotics, neural interfaces, and machine cognition.  
 To coordinate thought across minds and models, we need a new substrate.  
 Not another programming language. Not another dialect. A protocol.
 
@@ -35,12 +35,19 @@ It is not a tool. It is the shared layer of thought for an intelligent civilizat
 
 - LLM prompting & symbolic compression
 - Agent-to-agent communication & shared reasoning
+- Human–robot collaboration & action alignment
+- Embodied agents with symbolic task planning
 - Structured emotional encoding for AI systems
 - Brain-computer interface (BCI) integration
 - Thought-to-symbol mapping & cognitive expression
 - Substrate for AI alignment research & interpretability
 - Protocol for intersubjective trust between minds and machines
 - Layer for cross-species cognition (human ↔ AI ↔ augmented minds)
+- Haptic, visual, and auditory interfaces with symbolic control
+
+Noe isn’t just for language models and thought transmission. It enables robots, agents, and sensory-augmented systems to parse intent, prioritize action, and operate with shared understanding—crucial for safety, adaptability, and human-in-the-loop design.
+
+This makes it uniquely suited for human–robot collaboration. Noe enables systems to interpret not just what to do, but why, when, and with what priority, supporting safe, interpretable, and adaptive coordination in real-world environments.
 
 
 
