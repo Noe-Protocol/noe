@@ -57,17 +57,17 @@ This makes it uniquely suited for human–robot collaboration. Noe enables syste
 [docs/philosophy.md](#) — Why we need a new protocol  
 [docs/alignment.md](#) — AI safety & e/acc rationale  
 [docs/faq.md](#) — Objections, answered  
-[docs/glyphs.md](#) — Core primitives  
-[docs/onboarding.md](#) — How to read, write, and think in Noe  
-[docs/agent-interface.md](#) — Symbolic use in LLMs and agents  
-[CONTRIBUTING.md](#) — How to contribute glyphs or concepts  
-[examples/](#) — Sample phrases, prompts, and symbolic flows  
+[docs/glyphs.md](#) — Core primitives  (To Do)
+[docs/onboarding.md](#) — How to read, write, and think in Noe  (To Do)
+[docs/agent-interface.md](#) — Symbolic use in LLMs and agents  (To Do)
+[CONTRIBUTING.md](#) — How to contribute glyphs or concepts  (To Do)
+[examples/](#) — Sample phrases, prompts, and symbolic flows  (To Do)
 
 
 
 ## 🌐 Project Status
 
-This project is in **Alpha.** The protocol is open, the syntax is evolving, and contributions are welcome.
+This project is in **Early Development.** The protocol is open, the syntax is evolving, and contributions are welcome.
 
 
 
