@@ -6,7 +6,9 @@ As intelligence accelerates, so must our means of expressing it. The deeper the 
 
 Noe exists to change that.
 
-Noe is not a markup language, a universal grammar, or a replacement for natural language. It is a protocol, a symbolic substrate for shared intent, compressed thought, and agentic coordination. It runs alongside language, not above it. It does not erase story or culture. It renders intent legible across minds, machines, and modalities.
+Noe is not a markup language, a universal grammar, or a replacement for natural language. It is a protocol, a symbolic substrate for shared intent, compressed thought, and agentic coordination. Its format is designed to persist across form: spoken aloud, encoded in light, transmitted via haptic pulse, or interfaced directly through neural input. 
+
+It runs alongside language, not above it. It does not erase story or culture. It renders intent legible across minds, machines, and modalities. It is not logic formalism or symbolic markup. Noe encodes intent and affect, not just commands or conditions. It is legible to cognition, not just computation.
 
 Noe is built on atomic glyphs, irreducible units of meaning that can be chained, modified, and composed. From this minimal core, users build expressive sequences: thoughts, commands, emotional states, or structured logic. The system is modular, interoperable, and cognitively efficient - designed for AI prompting, BCI, interface abstraction, or inter-agent negotiation.
 
