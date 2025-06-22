@@ -22,7 +22,7 @@ Noe doesn’t just compress the message. It aligns the meaning.
 
 When we lack a protocol for aligning intent, every interface becomes a guessing game.
 
-## How Noe Enables Alignment
+## How Noe Aligns Meaning
 
 Noe is designed to make meaning unambiguous.
 
