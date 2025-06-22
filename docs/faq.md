@@ -55,7 +55,11 @@ It’s designed for precision, coordination, and alignment across minds, systems
 
 ### Can people speak Noe?
 
-Yes. Noe is a multimodal protocol, and that includes speech.
+Yes. Noe is a multimodal protocol, and that includes speech. However, speech is just one form - Noe glyphs can be rendered as visual symbols, vibrational pulses, light sequences, or neural triggers-each preserving structure, meaning, and intent.
+
+This multimodal design makes Noe uniquely compatible with diverse agents and interfaces: from voice assistants and visual agents to haptic devices, wearable/assistant robotics, and BCI-driven systems.
+
+Noe isn’t tied to a mouth or screen. It travels where cognition does.
 
 Each glyph has a defined phonetic form, allowing symbolic chains to be vocalized with clarity and rhythm.  
 Spoken Noe functions like compressed verbal code: minimal, expressive, and efficient.
