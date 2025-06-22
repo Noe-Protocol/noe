@@ -6,7 +6,7 @@ Not a language. A protocol.
 Not syntax for speech, but structure for thought.  
 Noe is built to align minds and machines through compressed symbolic meaning.
 
----
+
 
 ## ✨ Why Noe?
 
@@ -16,7 +16,7 @@ Noe is built to align minds and machines through compressed symbolic meaning.
 
 Noe is modular, expressive, emotion-capable, designed for clarity, reasoning, and alignment at scale.
 
----
+
 
 ## 🧠 Core Use Cases
 
@@ -29,7 +29,7 @@ Noe is modular, expressive, emotion-capable, designed for clarity, reasoning, an
 - Protocol for intersubjective trust between minds and machines
 - Layer for cross-species cognition (human ↔ AI ↔ augmented minds)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -43,13 +43,13 @@ Noe is modular, expressive, emotion-capable, designed for clarity, reasoning, an
 - [CONTRIBUTING.md](#) — How to contribute glyphs or concepts  
 - [examples/](#) — Sample phrases, prompts, and symbolic flows  
 
----
+
 
 ## 🌐 Project Status
 
 This project is in **Alpha.** The protocol is open, the syntax is evolving, and contributions are welcome.
 
----
+
 
 Initiated by [Augustus](https://x.com/augustusaligned)  
 Follow [@noelanguage](https://x.com/noelanguage) for updates.
