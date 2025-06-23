@@ -53,10 +53,10 @@ This makes it uniquely suited for human–robot collaboration. Noe enables syste
 
 ## 🚀 Getting Started
 
-- [docs/structure.md](#) — Grammar & chaining logic  
-- [docs/philosophy.md](#) — Why we need a new protocol  
-- [docs/alignment.md](#) — AI safety & alignment rationale  
-- [docs/faq.md](#) — Objections, answered  
+- [docs/structure.md](docs/structure.md) — Grammar & chaining logic  
+- [docs/philosophy.md](docs/philosophy.md) — Why we need a new protocol  
+- [docs/alignment.md](docs/alignment.md) — AI safety & alignment rationale  
+- [docs/faq.md](docs/faq.md) — Objections, answered  
 - [docs/glyphs.md](#) — Core primitives (To Do)
 - [docs/onboarding.md](#) — How to read, write, and think in Noe (To Do)
 - [docs/agent-interface.md](#) — Symbolic use in LLMs and agents (To Do)
