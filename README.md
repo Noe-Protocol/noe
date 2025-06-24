@@ -1,4 +1,4 @@
-# Introducing Noe 𐌙𐌮𐌯
+# Introducing Noe 𐍈
 
 A symbolic protocol for cognition, compression, and aligned communication
 
@@ -84,3 +84,5 @@ This project is in **Early Development.** The protocol is open, the syntax is ev
 - Initiated by [Augustus](https://x.com/augustusaligned)  
 - Follow [@noeprotocol](https://x.com/noeprotocol) for updates.
 - Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
+
+𐌙𐌮𐌯
