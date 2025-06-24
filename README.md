@@ -81,6 +81,6 @@ This project is in **Early Development.** The protocol is open, the syntax is ev
 
 <br>
 
-Initiated by [Augustus](https://x.com/augustusaligned)  
-Follow [@noeprotocol](https://x.com/noeprotocol) for updates.
-Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
+- Initiated by [Augustus](https://x.com/augustusaligned)  
+- Follow [@noeprotocol](https://x.com/noeprotocol) for updates.
+- Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
