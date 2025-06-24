@@ -1,37 +1,47 @@
-# Noe 𐌙𐌮𐌯
+# Introducing Noe 𐌙𐌮𐌯
 
-**A symbolic protocol for cognition, compression, and machine-aligned communication.**
+A symbolic protocol for cognition, compression, and aligned communication
 
-Not a language. A protocol.  
-Not syntax for speech, but structure for thought.  
-Noe is built to align minds and machines through compressed symbolic meaning.
+Not a language, a protocol.
+Not grammar for conversation — structure for thought.
 
+Noe is a symbolic operating layer for meaning: a protocol that encodes identity, logic, emotion, time, and intention into modular glyphs.
+Each glyph is atomic. Each chain is a compressed expression of thought.
+Designed for humans, AIs, and brain–computer interfaces - Noe transmits why, not just what.
 
+<br>
 
-## ✨ Why Noe?
+## Why Noe?
 
-Language is the oldest interface, but it was never designed for intelligence at scale.
+Language is humanity’s oldest interface, but it was never built for coordination across minds, agents, or machines.
 
-Natural language is ambiguous, bloated, and optimized for storytelling, not precision.  
-Code is brittle, rigid, and built for machines, not shared understanding.
+Natural language is rich, but ambiguous.
+Code is precise, but brittle.
+Neither is optimized for cognition at scale.
 
-Neither is built for what’s coming.
+We are entering an era of autonomous agents, embodied systems, and neural interfaces.
+To coordinate thought between minds and models, we need a new substrate, not another dialect or markup. A protocol.
 
-We are entering an era of agents, robotics, neural interfaces, and machine cognition.  
-To coordinate thought across minds and models, we need a new substrate.  
-Not another programming language. Not another dialect. A protocol.
+Noe encodes meaning directly. It replaces noise with structure, ambiguity with intent.
+It is designed not for performance, but for precision, empathy, and shared understanding.
 
-Noe compresses meaning into symbolic structure.  
-It captures nuance, emotion, intent, and reasoning with clarity.  
-It speaks to humans, to machines, and to whatever comes next.
+<br>
 
-Noe is modular. Expressive. Emotion-capable.  
-Built for cognition, coordination, and alignment at the speed of thought.  
-It is not a tool. It is the shared layer of thought for an intelligent civilization.
+## Noe: A Cognitive OS Layer
 
+Noe is a symbolic operating system for meaning, a protocol that structures cognition into modular, machine-interpretable glyphs.
 
+Each glyph captures a core concept: identity, logic, affect, time, intent.
+Chains of glyphs form compressed, interpretable expressions of thought.
 
-## 🧠 Core Use Cases
+Noe is cross-modal by design - it can be spoken, written, signed, flashed in light, pulsed through haptics, or transmitted directly via brain-computer interface.
+
+Noe doesn’t describe. It aligns.
+It’s not just about what is said, but why, when, and with what intention.
+
+<br>
+
+## Core Use Cases
 
 - LLM prompting & symbolic compression
 - Agent-to-agent communication & shared reasoning
@@ -49,9 +59,9 @@ Noe isn’t just for language models and thought transmission. It enables robots
 
 This makes it uniquely suited for human–robot collaboration. Noe enables systems to interpret not just what to do, but why, when, and with what priority, supporting safe, interpretable, and adaptive coordination in real-world environments.
 
+<br>
 
-
-## 🚀 Getting Started
+## Getting Started
 
 - [docs/structure.md](docs/structure.md) — Grammar & chaining logic  
 - [docs/philosophy.md](docs/philosophy.md) — Why we need a new protocol  
@@ -63,13 +73,14 @@ This makes it uniquely suited for human–robot collaboration. Noe enables syste
 - [CONTRIBUTING.md](#) — How to contribute glyphs or concepts (To Do)
 - [examples/](#) — Sample phrases, prompts, and symbolic flows (To Do)
 
+<br>
 
-
-## 🌐 Project Status
+## Project Status
 
 This project is in **Early Development.** The protocol is open, the syntax is evolving, and contributions are welcome.
 
-
+<br>
 
 Initiated by [Augustus](https://x.com/augustusaligned)  
-Follow [@noelanguage](https://x.com/noelanguage) for updates.
+Follow [@noeprotocol](https://x.com/noeprotocol) for updates.
+Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
