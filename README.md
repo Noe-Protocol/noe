@@ -2,76 +2,57 @@
 
 A symbolic protocol for cognition, compression, and aligned communication
 
-Not a language, a protocol.
-Not grammar for conversation — structure for thought.
+Noe isn’t a new language. It’s a framework for meaning, built so humans, machines, and hybrid systems can share the same structure of thought. It works as a symbolic operating layer: a protocol that represents identity, logic, emotion, time, and intention through modular glyphs. Each glyph stands on its own; chains of them form compressed expressions of reasoning and intent. 
 
-Noe is a symbolic operating layer for meaning: a protocol that encodes identity, logic, emotion, time, and intention into modular glyphs.
-Each glyph is atomic. Each chain is a compressed expression of thought.
-Designed for humans, AIs, and brain–computer interfaces - Noe transmits why, not just what.
+Noe was created for people, AIs, and brain-computer interfaces to exchange understanding, not just data.
 
 <br>
 
 ## Why Noe?
 
-Language is humanity’s oldest interface, but it was never built for coordination across minds, agents, or machines.
+Language gave us expression, but it never scaled beyond human minds.  It’s rich, yet vague. Code is exact, yet fragile. Between the two sits a gap that makes shared reasoning hard.  As autonomous systems and neural interfaces grow more common, that gap matters.  We need a common substrate for meaning, something precise enough for machines and intuitive enough for people.  
 
-Natural language is rich, but ambiguous.
-Code is precise, but brittle.
-Neither is optimized for cognition at scale.
-
-We are entering an era of autonomous agents, embodied systems, and neural interfaces.
-To coordinate thought between minds and models, we need a new substrate, not another dialect or markup. A protocol.
-
-Noe encodes meaning directly. It replaces noise with structure, ambiguity with intent.
-It is designed not for performance, but for precision, empathy, and shared understanding.
+Noe encodes thought directly. It trades noise for structure, and guesswork for intention. Its goal isn’t speed, it’s mutual understanding.
 
 <br>
 
-## Noe: A Cognitive OS Layer
+## Noe: The Cognitive Layer
 
-Noe is a symbolic operating system for meaning, a protocol that structures cognition into modular, machine-interpretable glyphs.
+Noe acts like an operating system for cognition. It structures meaning into atomic, interpretable glyphs that can be combined, signed, and transmitted in any medium.  Each symbol represents a fundamental aspect of mind: identity, relation, logic, affect, time, or intent.  Linked together, they form compact statements that can be parsed by both humans and machines.  
 
-Each glyph captures a core concept: identity, logic, affect, time, intent.
-Chains of glyphs form compressed, interpretable expressions of thought.
-
-Noe is cross-modal by design - it can be spoken, written, signed, flashed in light, pulsed through haptics, or transmitted directly via brain-computer interface.
-
-Noe doesn’t describe. It aligns.
-It’s not just about what is said, but why, when, and with what intention.
+Noe is multimodal. It can be written, spoken, visualized, flashed, pulsed, or connected to a brain interface.  It doesn’t just describe events, it aligns understanding. Context, motive, and timing travel with the message.
 
 <br>
 
-## Core Use Cases
+## Applications
 
-- LLM prompting & symbolic compression
-- Agent-to-agent communication & shared reasoning
-- Human–robot collaboration & action alignment
-- Embodied agents with symbolic task planning
-- Structured emotional encoding for AI systems
-- Brain-computer interface (BCI) integration
-- Thought-to-symbol mapping & cognitive expression
-- Substrate for AI alignment research & interpretability
-- Protocol for intersubjective trust between minds and machines
-- Layer for cross-species cognition (human ↔ AI ↔ augmented minds)
-- Haptic, visual, and auditory interfaces with symbolic control
+- Symbolic compression for LLMs and reasoning engines  
+- Communication between autonomous agents  
+- Human–robot coordination and task planning  
+- Embodied cognition and adaptive behavior  
+- Emotional encoding for transparent AI systems  
+- Brain–computer interface integration  
+- Thought-to-symbol mapping for research in cognition  
+- Alignment and interpretability studies  
+- Shared-intent protocols between minds and machines  
+- Interfaces that combine light, touch, and sound  
 
-Noe isn’t just for language models and thought transmission. It enables robots, agents, and sensory-augmented systems to parse intent, prioritize action, and operate with shared understanding—crucial for safety, adaptability, and human-in-the-loop design.
-
-This makes it uniquely suited for human–robot collaboration. Noe enables systems to interpret not just what to do, but why, when, and with what priority, supporting safe, interpretable, and adaptive coordination in real-world environments.
+Noe helps systems interpret intention and priority, which makes collaboration safer and more predictable in real environments.
 
 <br>
 
 ## Getting Started
 
-- [docs/structure.md](docs/structure.md) — Grammar & chaining logic  
-- [docs/philosophy.md](docs/philosophy.md) — Why we need a new protocol  
-- [docs/alignment.md](docs/alignment.md) — AI safety & alignment rationale  
-- [docs/faq.md](docs/faq.md) — Objections, answered  
-- [docs/glyphs.md](#) — Core primitives (To Do)
-- [docs/onboarding.md](#) — How to read, write, and think in Noe (To Do)
-- [docs/agent-interface.md](#) — Symbolic use in LLMs and agents (To Do)
-- [CONTRIBUTING.md](#) — How to contribute glyphs or concepts (To Do)
-- [examples/](#) — Sample phrases, prompts, and symbolic flows (To Do)
+- [docs/structure.md](docs/structure.md): Grammar & chaining logic  
+- [docs/philosophy.md](docs/philosophy.md): Why we need a new protocol  
+- [docs/alignment.md](docs/alignment.md): AI safety & alignment rationale  
+- [docs/faq.md](docs/faq.md): Objections and questions answered  
+- [docs/glyphs.md](#): Core primitives (To Do)
+- [NIPs/](https://github.com/Noe-Protocol/NIPs): Noe Improvement Proposals
+- [docs/onboarding.md](#): How to read, write, and think in Noe (To Do)
+- [docs/agent-interface.md](#): Symbolic use in LLMs and agents (To Do)
+- [CONTRIBUTING.md](#): How to contribute glyphs or concepts (To Do)
+- [examples/](#): Sample phrases, prompts, and symbolic flows (To Do)
 
 <br>
 
@@ -79,10 +60,8 @@ This makes it uniquely suited for human–robot collaboration. Noe enables syste
 
 This project is in **Early Development.** The protocol is open, the syntax is evolving, and contributions are welcome.
 
-<br>
-
-- Initiated by [Augustus](https://x.com/augustusaligned)  
-- Follow [@noeprotocol](https://x.com/noeprotocol) for updates.
-- Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
+Initiated by [Augustus](https://x.com/augustusaligned)  
+Follow [@noeprotocol](https://x.com/noeprotocol) for updates. <br>
+Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
 
 𐌙𐌮𐌯
