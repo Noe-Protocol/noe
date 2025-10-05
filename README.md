@@ -64,4 +64,4 @@ Initiated by [Augustus](https://x.com/augustusaligned)
 Follow [@noeprotocol](https://x.com/noeprotocol) for updates. <br>
 Join the [Discord](https://discord.com/invite/RCG47f2E) to help build the future of symbolic thought.
 
-𐌙𐌮𐌯
+𐌙φ𐌯
